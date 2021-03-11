@@ -1,8 +1,10 @@
 cryptography
 Flask
+fastapi
 Django
 SQLAlchemy
 requests
 httpx
 starlette
+fastapi
 sphinx-typlog-theme==0.8.0
